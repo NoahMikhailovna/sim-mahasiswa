@@ -6,7 +6,6 @@ pada Program Studi Sistem Informasi.
 ## Identitas
 - Nama: Fakhry Ahmad Fauzan
 - NIM: 20241320038
-- Kelas: [Kelas Praktikum]
 
 ## Fitur
 - Tambah data mahasiswa (NIM, nama, prodi, angkatan, IPK)
